@@ -1,1 +1,1 @@
-# princepal-of-programing-languages
+# principles-of-programing-languages
